@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# React
+/build/
+/.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# dotenv environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
